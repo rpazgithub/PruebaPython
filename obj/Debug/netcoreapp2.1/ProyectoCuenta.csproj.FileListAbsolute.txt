@@ -1,0 +1,11 @@
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\bin\Debug\netcoreapp2.1\ProyectoCuenta.deps.json
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\bin\Debug\netcoreapp2.1\ProyectoCuenta.runtimeconfig.json
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\bin\Debug\netcoreapp2.1\ProyectoCuenta.runtimeconfig.dev.json
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\bin\Debug\netcoreapp2.1\ProyectoCuenta.dll
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\bin\Debug\netcoreapp2.1\ProyectoCuenta.pdb
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.csprojAssemblyReference.cache
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.csproj.CoreCompileInputs.cache
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.AssemblyInfoInputs.cache
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.AssemblyInfo.cs
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.dll
+C:\Users\Uniones Creativas\Documents\Pruebas c#\ProyectoCuenta\obj\Debug\netcoreapp2.1\ProyectoCuenta.pdb
